@@ -1,7 +1,7 @@
 # glSNe
 Measuring the Hubble constant with strongly lensed supernovae.
 
-This repository provides the analysis scripts to reproduce the [Birrer, Dhawan, Shajib 2021](https://arxiv.org) results.
+This repository provides the analysis scripts to reproduce the paper by [Birrer, Dhawan, Shajib 2021](https://arxiv.org/abs/2107.12385).
 
 - [Repository for numerical forecast](https://github.com/sibirrer/glSNe/blob/main/Notebooks/forecast_glSNe.ipynb)
 - [Repository for analytic forecast](https://github.com/sibirrer/glSNe/blob/main/Notebooks/analytic_error_propagation.ipynb)
